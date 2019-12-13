@@ -1,0 +1,1 @@
+install kivy,buildozer,cython
